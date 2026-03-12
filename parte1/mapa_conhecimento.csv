@@ -1,0 +1,26 @@
+sintoma1,sintoma2,sintoma3,doenca_associada,nivel_risco,descricao
+dor no peito,aperto no tórax,dor irradiando para o braço,Infarto Agudo do Miocárdio,alto,Bloqueio súbito de artéria coronária com risco de morte
+dor no peito,pressão no peito,desconforto torácico,Angina Estável,medio,Dor por redução temporária do fluxo sanguíneo ao coração
+cansaço constante,fadiga extrema,pernas inchadas,Insuficiência Cardíaca,alto,Coração não consegue bombear sangue suficiente ao corpo
+falta de ar,dificuldade para respirar,respiração ofegante,Edema Pulmonar,alto,Acúmulo de líquido nos pulmões por falha cardíaca
+palpitações,coração acelerado,batimento irregular,Fibrilação Atrial,alto,Arritmia grave com risco de AVC e falência cardíaca
+tontura,desmaio,perda de consciência,Síncope Cardíaca,alto,Perda temporária de consciência por queda do débito cardíaco
+pressão alta,dor de cabeça forte,visão embaçada,Hipertensão Grave,alto,Pressão arterial elevada com risco de AVC e infarto
+formigamento no braço,dormência no braço esquerdo,peso no peito,Infarto Agudo do Miocárdio,alto,Sintomas clássicos de infarto com irradiação para membros
+suor frio,náusea,fraqueza súbita,Infarto Agudo do Miocárdio,alto,Sintomas atípicos de infarto mais comuns em mulheres e diabéticos
+falta de ar ao deitar,acordar com falta de ar,tosse noturna,Insuficiência Cardíaca Congestiva,alto,Líquido nos pulmões que piora em posição horizontal
+batimento acelerado,coração disparado,ansiedade com palpitações,Taquicardia Supraventricular,medio,Ritmo cardíaco acelerado originado acima dos ventrículos
+dor no peito ao esforço,dor que melhora em repouso,pressão no tórax,Angina de Esforço,medio,Isquemia miocárdica desencadeada por atividade física
+inchaço nas pernas,tornozelos inchados,ganho de peso rápido,Insuficiência Cardíaca,alto,Retenção de líquidos por falha no bombeamento cardíaco
+pulso irregular,coração pulando batidas,sensação de falha no peito,Extrassístole,baixo,Batimentos extras geralmente benignos mas que exigem avaliação
+pressão baixa,tontura ao levantar,fraqueza nas pernas,Hipotensão Ortostática,baixo,Queda de pressão ao mudar de posição podendo indicar problema cardíaco
+cansaço aos pequenos esforços,falta de ar ao caminhar,limitação física progressiva,Cardiomiopatia Dilatada,alto,Coração dilatado com função de bombeamento reduzida
+dor nas costas irradiando para o peito,dor intensa e rasgando,pressão muito alta,Dissecção Aórtica,alto,Emergência com ruptura da parede da aorta com risco de morte imediato
+febre,dor no peito que piora ao respirar,cansaço intenso,Pericardite,medio,Inflamação do saco que envolve o coração geralmente por infecção viral
+confusão mental,dificuldade de falar,fraqueza em um lado do corpo,AVC Cardioembólico,alto,Coágulo do coração que bloqueia artéria cerebral
+chiado no peito,tosse com catarro,falta de ar crônica,Cor Pulmonale,alto,Falência do lado direito do coração causada por doença pulmonar crônica
+dor no peito que irradia para o pescoço,sudorese,mal estar geral,Infarto Agudo do Miocárdio,alto,Irradiação para pescoço e mandíbula é sinal clássico de infarto
+coração lento,cansaço sem motivo,sensação de desmaiando,Bradicardia,medio,Frequência cardíaca muito baixa que pode causar tontura e síncope
+palidez,lábios azulados,extremidades frias,Choque Cardiogênico,alto,Falência grave do coração com risco iminente de morte
+pressão no peito após refeição,desconforto pós-prandial,queimação no peito,Angina Variante,medio,Espasmo coronário que pode ocorrer em repouso ou após refeições
+histórico de infarto,dor no peito recorrente,uso de nitrato,Angina Instável,alto,Precursora de infarto com padrão de dor em piora progressiva
