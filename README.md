@@ -76,7 +76,8 @@ Este projeto foi desenvolvido como parte de estudos e práticas em Inteligência
 
 ## Autora
 
-**Flávia Bocchino**
+**Nome:** Flavia Nunes Bocchino  
+**RM:** 564213
 
 ---
 
